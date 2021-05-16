@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python,DeepNN, MachineLearning, Django, Spring,etc.
 - 🌱 I’m currently learning Spring Boot, DeepNN
 - 💞️ I’m looking to collaborate on 😊
-- 📫 How to reach me ...
+- 📫 How to reach me enlqn1010@gmail.com
 
 <!---
 choijaehyeokk/choijaehyeokk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
