@@ -6,7 +6,7 @@
 -  🇰🇷 I'm Korean.
 -  👨🏻‍🎓 My major is software and I studied at KAU.
 -  ✉️ How to reach me enlqn1010@gmail.com
--  📔 come to my blog anytime <enlqn1010@tistory.com>.
+-  📔 come to my blog anytime <https://enlqn1010.tistory.com/>.
 ### Learning Now!
 - 👀 I’m interested in Python,DeepNN, MachineLearning, Django, Spring,etc.
 - 🌱 I’m currently learning Spring Boot, DeepNN
