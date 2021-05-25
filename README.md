@@ -18,3 +18,5 @@
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijaehyeokk&show_icons=true&theme=tokyonight&card_width=50)
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=enlqn1010">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choijaehyeokk&layout=compact)](https://github.com/choijaehyeokk/github-readme-stats)
