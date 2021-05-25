@@ -9,4 +9,6 @@ choijaehyeokk/choijaehyeokk is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enlqn1010)](https://solved.ac//)
