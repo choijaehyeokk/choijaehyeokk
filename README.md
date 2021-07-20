@@ -4,7 +4,7 @@
 - 👋  Hi, I’m @choijaehyeokk
 - 👨🏻‍💻 I’m looking to collaborate on ML,AI Engineering.
 -  🇰🇷 I'm Korean.
--  👨🏻‍🎓 My major is software and I studied at KAU.
+-  👨🏻‍🎓 My major is software and I studied at Korea Aerospace University.
 -  ✉️ How to reach me enlqn1010@gmail.com
 -  📔 come to my blog anytime <https://enlqn1010.tistory.com/>.
 ### Learning Now!
